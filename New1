@@ -1,0 +1,3 @@
+user_input = int(input("whats your age?"))
+
+print(user_input+2)
